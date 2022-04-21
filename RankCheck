@@ -1,4 +1,4 @@
-if game.Players.LocalPlayer:IsInGroup(13388079) then 
+if game.Players.LocalPlayer:IsInGroup(14560704) then 
     if game.Players.LocalPlayer:GetRankInGroup(14560704) == 1 then 
         loadstring(game:HttpGet('https://raw.githubusercontent.com/applless/AltControlGui/main/Main'))() 
     end
